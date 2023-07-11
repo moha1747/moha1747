@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://github.com/moha1747">
+    <img src="https://img.freepik.com/premium-vector/modern-loft-interior-night-open-space-home-office-with-furniture-corporate-freelance-work_48369-46085.jpg" alt="MasterHead" style="width: 60%;" />
+  </a>
+</p>
 [![MasterHead](https://img.freepik.com/premium-vector/modern-loft-interior-night-open-space-home-office-with-furniture-corporate-freelance-work_48369-46085.jpg)](https://github.com/moha1747)
 <h1 align="center">👋 Hi I'm Abbaas Mohamud</h1>
 <h3 align="center">👨‍💻 Seeking an exciting and challenging Software Engineering internship to enhance technical skills and grow as a professional</h3>
