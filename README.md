@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/top-view-workspace-with-laptop-stationery-coffee-cup-plant-wooden-table_107791-3370.jpg?w=2000&t=st=1689055567~exp=1689056167~hmac=6935d0f1d95722de64bc52438386201aead6c520dfbf5b8a1c9907492deef5b9)](https://github.com/moha1747)
+[![MasterHead](https://img.freepik.com/premium-vector/illustration-office-workspace-vector_456052-53.jpg)](https://github.com/moha1747)
 <h1 align="center">👋 Hi I'm Abbaas Mohamud</h1>
 <h3 align="center">👨‍💻 Seeking an exciting and challenging Software Engineering internship to enhance technical skills and grow as a professional</h3>
 
