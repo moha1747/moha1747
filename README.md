@@ -8,8 +8,6 @@
 
 - 💻 I’m currently learning **React Native**
 
-- 💬 Ask me about **Flutter, UI/UX**
-
 - 📫 How to reach me **mohamud.abbaas14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
