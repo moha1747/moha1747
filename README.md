@@ -6,7 +6,7 @@
 <h1 align="center">👋 Hi I'm Abbaas Mohamud</h1>
 <h3 align="center">👨‍💻 Seeking an exciting and challenging Software Engineering internship to enhance technical skills and grow as a professional</h3>
 
-- 💻 I’m currently learning **MERN Stacke**
+- 💻 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **mohamud.abbaas14@gmail.com**
 
