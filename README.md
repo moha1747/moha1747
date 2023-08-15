@@ -8,7 +8,7 @@
 
 - 💻 I’m currently learning how to build responisve web app's using the **MERN** tech Stack
 
-- 📫 How to reach me **mohamud.abbaas14@gmail.com**
+- 📫 How to reach me <a href="mohamud.abbaas14@gmail.com" >Gmail</a> <a href="https://www.linkedin.com/authwall?trk=bf&trkInfo=AQGHZfVG4TPRrgAAAYn6uiMQALCyc8XZlB02ycwWmsKTBXathcyyMLHyHLRHnnRCxY_b5OD4MGy_lRrN5MA9V-SJQnVlofhEGWbxFmqbP-keJwn_Igs6LZIq-MkqfK6YGe6PHwE=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fabbaas-mohamud-148178255">    LinkedIN</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
