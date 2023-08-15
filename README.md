@@ -8,9 +8,8 @@
 
 - 💻 I’m currently learning how to build responisve web app's using the **MERN** tech Stack
 
-- 📫 How to reach me:
- <ul> <li><a href="mohamud.abbaas14@gmail.com" >Gmail</a></li> <li><a href="https://www.linkedin.com/authwall?trk=bf&trkInfo=AQGHZfVG4TPRrgAAAYn6uiMQALCyc8XZlB02ycwWmsKTBXathcyyMLHyHLRHnnRCxY_b5OD4MGy_lRrN5MA9V-SJQnVlofhEGWbxFmqbP-keJwn_Igs6LZIq-MkqfK6YGe6PHwE=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fabbaas-mohamud-148178255">    LinkedIN</a> </li> </ul>
-
+- 📫 How to reach me: mohamud.abbaas14@gmail.com
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abbaas-mohamud-148178255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abbaas-mohamud-148178255/" height="30" width="40" /></a>
