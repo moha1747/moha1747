@@ -6,8 +6,8 @@
 <h1 align="center">👋 Hi I'm Abbaas Mohamud</h1>
 <h3 align="center">👨‍💻 Seeking an exciting and challenging Software Engineering internship to enhance my technical skills and grow as a professional</h3>
 
-- 💻 I’m currently learning how to build responisve web app's using the **MERN** tech Stack
-
+- 💻 I’m currently focusing on developing full-stack applications using TypeScript for the front-end and Spring with Java for the back-end.
+- 💻 I have knowledge in building RESTful APIs using Express, Node.js, and MongoDB.
 - 📫 How to reach me: mohamud.abbaas14@gmail.com
  
 <h3 align="left">Connect with me:</h3>
