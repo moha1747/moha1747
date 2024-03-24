@@ -8,7 +8,7 @@
 
 - 💻 I’m currently focusing on developing full-stack applications using TypeScript for the front-end and Spring with Java for the back-end.
 - 💻 I have knowledge in building RESTful APIs using Express, Node.js, and MongoDB.
-- 📫 How to reach me: mohamud.abbaas14@gmail.com
+- 📫 How to reach me: moha1747@umn.edu
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
